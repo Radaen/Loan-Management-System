@@ -1,0 +1,14 @@
+{
+  "name": "loan-management-system",
+  "version": "1.0.0",
+  "description": "Loan Management System based on Flowchart Diagram (React, Tailwind CSS, Node.js, MongoDB)",
+  "scripts": {
+    "server": "cd server && node index.js",
+    "client": "cd client && npm run dev",
+    "start": "node server/index.js",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["loan-management", "react", "tailwindcss", "nodejs", "mongodb"],
+  "author": "",
+  "license": "ISC"
+}
